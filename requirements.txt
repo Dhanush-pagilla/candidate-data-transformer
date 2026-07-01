@@ -1,0 +1,6 @@
+# Multi-Source Candidate Data Transformer
+# Runtime dependencies
+# Install with: pip install -r requirements.txt
+
+pycountry==26.2.16      # ISO-3166 alpha-2 country code lookup and fuzzy search
+phonenumbers==9.0.33    # E.164 phone number parsing and formatting (Google libphonenumber)
