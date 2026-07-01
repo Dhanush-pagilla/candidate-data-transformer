@@ -1,0 +1,71 @@
+{
+  "applicant_id": "  ats_55781  ",
+  "personal": {
+    "first_name": "kanduri SAI sri",
+    "last_name": "vidya   ",
+    "contact_email": "srividya.kanduri@@@gmail....com",
+    "alt_email": "saisrividya.kanduri[at]gmail[dot]com",
+    "mobile": "+91 98-664-82369",
+    "current_location": "Hyderabad,, Telangana ,, India"
+  },
+  "professional": {
+    "current_designation": "  ",
+    "current_employer": null,
+    "tech_stack": ["PYTHON", "python", "Py", "c++", "HTML5", "css3", "Java Script", "  sql  ", "Mongo DB", "", null, "N/A"],
+    "profile_links": {
+      "linkedin_url": "linkedin.com/in/saisrividyakanduri//",
+      "github_url": "HTTP://github.com//saisrividy/"
+    }
+  },
+  "academic": [
+    {
+      "institute": "  Vardhaman College Of Engineering  ",
+      "qualification": "btech",
+      "stream": "AI/ML",
+      "passing_year": "2026 (expected)"
+    },
+    {
+      "institute": "IIT Madras",
+      "qualification": null,
+      "stream": "",
+      "passing_year": 26
+    },
+    {
+      "institute": "",
+      "qualification": "",
+      "stream": "",
+      "passing_year": null
+    }
+  ],
+  "work_history": [
+    {
+      "employer": "Evernorth Health Services",
+      "role": "SWE Intern",
+      "from": "07/2025",
+      "to": "12-2025",
+      "description": "  AWS pipeline, Kafka stuff...  "
+    },
+    {
+      "employer": "Cyient Pvt Ltd",
+      "role": "intern",
+      "from": "2025/01",
+      "to": "2025/04",
+      "description": null
+    },
+    {
+      "employer": "FREELANCE???",
+      "role": "idk",
+      "from": "sometime 2024",
+      "to": "tbd",
+      "description": "stuff"
+    },
+    {
+      "employer": null,
+      "role": null,
+      "from": null,
+      "to": null,
+      "description": null
+    }
+  ],
+  "recruiter_score": "high-ish"
+}

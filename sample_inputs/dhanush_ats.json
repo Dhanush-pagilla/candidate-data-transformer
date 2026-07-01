@@ -1,0 +1,90 @@
+{
+  "candidate_profile": {
+    "personal_details": {
+      "full_name": "Dhanush",
+      "roll_no": "22881A7339",
+      "contact_number": "+91-9491    357357",
+      "primary_email": "pagilladhanush.151@@@@gmail....com",
+      "alt_email": "pagilladhanush.151[at]gmail[dot]com",
+      "profile_links": {
+        "github_url": "https://github.com/Dhanush-pagilla",
+        "linkedin_url": "https://www.linkedin.com/in/pagilla-dhanush-6a7b63292/"
+      }
+    },
+    "career_objective": "Seeking a challenging software developer role to apply coding skills and enthusiasm for AI/ML in solving real-world problems.",
+    "education": [
+      {
+        "qualification": "B.Tech in Artificial Intelligence and Machine Learning",
+        "board_or_university": "JNTUH",
+        "institution": "Vardhaman College Of Engineering, Hyderabad",
+        "timeline": "2022-26",
+        "performance_metric": "CGPA: 8.51"
+      },
+      {
+        "qualification": "Intermediate in MPC",
+        "board_or_university": "Telangana Board of Intermediate Education (TGBIE)",
+        "institution": "Government Junior College Haliya",
+        "timeline": "2020-22",
+        "performance_metric": "Percentage: 91.7"
+      },
+      {
+        "qualification": "Tenth Class",
+        "board_or_university": "State Board of Secondary Education (SSE)",
+        "institution": "Akshaya High School, Haliya",
+        "timeline": "2020",
+        "performance_metric": "CGPA: 10"
+      }
+    ],
+    "academic_projects": [
+      {
+        "project_title": "Movie Recommendation System",
+        "description": "A movie recommendation system that suggests films based on user preferences and viewing history.",
+        "technologies_used": ["Python", "Pandas", "Scikit-learn"]
+      },
+      {
+        "project_title": "Skill Match: A job matching platform",
+        "description": "Skill Match connects workers and employers for all jobs, with offline and rural access.",
+        "technologies_used": ["HTML", "CSS", "Python", "Flask", "SQLite"]
+      },
+      {
+        "project_title": "Web Scraping and Form Automation Using RPA",
+        "description": "Automated student portal data extraction to Google Forms via Chrome Extension.",
+        "technologies_used": ["Excel", "UiPath Studio"]
+      }
+    ],
+    "technical_skills": {
+      "languages": ["Python", "HTML + CSS"],
+      "database": ["SQL", "MongoDB (BASIC)"],
+      "relevant_coursework": [
+        "Data Structures & Algorithms (INTERMEDIATE)",
+        "Operating Systems",
+        "Cloud Computing",
+        "OOPS",
+        "DBMS"
+      ]
+    },
+    "soft_skills": [
+      "Creative Thinking", "Leadership Qualities", "Effective Team member",
+      "Conflict Resolution", "Being Empathetic", "Self-learning",
+      "Presentation", "Adaptability"
+    ],
+    "certifications": [
+      "Infosys Spring Board Python Foundation Certification",
+      "Python Course Certification Codedex",
+      "MongoDB developer path certification"
+    ],
+    "achievements": [
+      {
+        "title": "Research Paper Presentation",
+        "venue": "CICTN-2025, ABES Engineering College",
+        "details": "Presented research paper on 'Developing an AI-Based Library Assistant: Enhancing Book Retrieval with NLP & ML.'"
+      },
+      {
+        "title": "Corporate Excellence Award",
+        "awarded_by": "Mass Mutual Company",
+        "details": "Awarded for excellence in Web Scraping & RPA Automation using UiPath Studio."
+      }
+    ],
+    "signature_reference": "P. Dhanush"
+  }
+}
